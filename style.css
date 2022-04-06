@@ -8,6 +8,10 @@ body {
   padding-bottom: 32px;
 }
 
+#wrapper {
+  margin: 0 auto;
+}
+
 p {
   margin-bottom: 12px;
 }
